@@ -56,25 +56,3 @@ text-align: center;
 .navbar a:hover{
     background: #3f3f3f;
 }
-
-.footer {
-    background-color: #2f2a31;
-    padding: 20px;
-    text-align: center;
-  }
-  .footer-logo {
-    width: 100px;
-  }
-  .footer-1 a {
-    color: #666;
-    text-decoration: none;
-    margin: 0 10px;
-    text-transform: uppercase;
-    padding: 20px;
-
-
-}
-.letra_footer{
-    font-family: 'Open Sans', sans-serif;
-    background-color: #fff;
-}
